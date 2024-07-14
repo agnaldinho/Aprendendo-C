@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619196703 source:c:\users\agnal\onedrive\faculdade\3semestre\ss3\c\aulas\atividade 4.1 variaveis globais\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

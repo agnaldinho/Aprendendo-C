@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615742920 source:c:\users\agnal\onedrive\faculdade\3semestre\ss3\c\exercicios\atividaderevisaoc\exercicio4.6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

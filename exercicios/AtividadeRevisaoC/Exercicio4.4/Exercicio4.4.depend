@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1615482822 source:c:\users\agnal\onedrive\faculdade\3 º semestre\ss3\c\exercicio4.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1615482822 source:c:\users\agnal\onedrive\faculdade\3semestre\ss3\c\exercicios\atividaderevisaoc\exercicio4.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

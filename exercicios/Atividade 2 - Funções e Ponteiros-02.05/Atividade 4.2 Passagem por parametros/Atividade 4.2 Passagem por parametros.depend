@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619200172 source:c:\users\agnal\onedrive\faculdade\3semestre\ss3\c\exercicios\atividade 2 - funções e ponteiros\atividade 4.2 passagem por parametros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

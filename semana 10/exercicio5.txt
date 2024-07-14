@@ -1,0 +1,29 @@
+5.
+
+Linha / x / y
+11     / 2 / 5
+12     / 2 / 12
+13    / 26 / 12 
+
+Vai aparecer: 26 12
+
+6. 
+Vai aparecer: 9 e 11
+
+7.
+Vai aparecer: 1,
+
+8.
+
+Linha 9    quantidadeGratis = alugueisTotais / 10;
+Linha 10  quantidadesAPagar = alugueissTotais – quantidadeGratis;
+
+9.
+Linha 11 if(notas[i][j] == 5.75)
+Linha 13 return i;
+Linha 17 return 50; //pois não existe um aluno número 50
+
+10.
+Linha 12 for(i = 0; i < 1000000; i++)
+Linha 15 valoresObtidos[valorAtual] ++;
+Linha 21 porcentagemAtual = valoresObtidos[i]/1000000;
